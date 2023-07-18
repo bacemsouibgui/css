@@ -1,0 +1,46 @@
+a {
+    padding-left: 60px;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: red;
+}
+
+.box {
+  border: 1px solid red;
+  padding: 50px 30px;
+  margin: 60px 40px;
+
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: #8B1874;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+img {
+    border: 1px solid blue;
+    width: 400px ;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 80px;
+    border-radius: 50%;
+}
